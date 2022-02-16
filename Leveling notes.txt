@@ -1,0 +1,10 @@
+Notes:
+
+Leveling system:
+- eating on time = 20 points
+- eating recommended amount = 20 points
+- doing both = extra 40 points
+- 100 points per level until level 5
+- 200 points per level until level 15
+- 300 points per level until level 35
+- 500 points per level until level 50
